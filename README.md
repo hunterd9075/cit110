@@ -1,2 +1,4 @@
-# cit110
-CTI-110-2B01 Repository
+# CTI110 Repository
+Created for P2Lab1
+Hunter
+04/22/2018
